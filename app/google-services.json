@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250748278228",
+    "project_id": "mall-57223",
+    "storage_bucket": "mall-57223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250748278228:android:094c83ffe53c330423f241",
+        "android_client_info": {
+          "package_name": "com.example.mall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiV5_slGqUpD7AkRY7w96LZhLWgxSzMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

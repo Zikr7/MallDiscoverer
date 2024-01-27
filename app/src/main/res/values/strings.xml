@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Mall Discoverer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trx">Persiaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</string>
+    <string name="trxPub">MRT Kajang Line: Tun Razak Exchange station\nMRT Putrajaya Line: Tun Razak Exchange station</string>
+    <string name="trxCaps">The Exchange TRX is a world-class experiential lifestyle destination that sits at the heart of Tun Razak Exchange, Kuala Lumpur\'s international financial district. With over 400 of the world\'s leading retailers, The Exchange TRX blends together an immersive retail journey together with the beauty of nature through the 10-acre TRX City Park. Discover retail reimagined at The Exchange TRX.</string>
+    <string name="trxStore">Saint Laurent, Giorgio Armani, Crossover, FENDI, Nose, Dolce &amp; Gabbana, Valentino, Berluti, Cartier, Louis Vuitton</string>
+    <string name="trxBut">https://www.theexchange.my/</string>
+    <string name="trxLink">https://maps.app.goo.gl/k5MsqZdAEHtqp3ZM8</string>
+    <string name="pavi">168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</string>
+    <string name="paviPub">MRT Kajang Line: Bukit Bintang station\nMonorail Line: Bukit Bintang station</string>
+    <string name="paviCaps">Award-winning shopping destination with over 700 retail outlets and restaurants. Check out our complete list of Stores, Offers, Events, and latest updates</string>
+    <string name="paviStore">Dior, Chanel, Louis Vuitton, Emporio Armani, Gucci, Machines, Sephora, Bateleur, Fossil, ZARA, Zegna, Jimmy Choo, Bulgari</string>
+    <string name="paviBut">https://www.pavilion-kl.com/</string>
+    <string name="paviLink">https://maps.app.goo.gl/5fL9WaG89iszqYMi9</string>
+    <string name="klcc">241, Petronas Twin Tower, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</string>
+    <string name="klccPub">LRT Kelana Jaya Line: KLCC station</string>
+    <string name="klccCaps">A premier shopping mall with exclusive access to top-tier brands. Experience the wonders of Suria KLCC with your loved ones. Located In City Centre. Petronas Twin Towers.</string>
+    <string name="klccStore">Hublot, Balenciaga, Bally, Boss, Bottega Veneta, Coach, Gucci, Prada, Versace, Kenzo, Longchamp, MCM, Michael Kors, POLO</string>
+    <string name="klccBut">https://www.suriaklcc.com.my/</string>
+    <string name="klccLink">https://maps.app.goo.gl/MsQxpKdRUPNdKVPYA</string>
+    <string name="mid">Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</string>
+    <string name="midPub">KTM Seremban Line: MidValley station\nLRT Kelana Jaya Line: Abdullah Hukum station\nKTM Port Klang Line: Abdullah Hukum station</string>
+    <string name="midCaps">Located strategically in the city of Kuala Lumpur, Mid Valley Megamall is a shopping mall surrounded with hotels and offices and is conveniently accessible by a myriad of transportation options, making it a one-stop hub for shoppers, tourists, and business travelers alike.</string>
+    <string name="midStore">Crossover, Nitori, Harvey Norman, FABSPY, Kipling, Swarovski, Timberland, Topshop, Zara, Padini, Elianto, Lancome</string>
+    <string name="midBut">https://www.midvalley.com.my/</string>
+    <string name="midLink">https://maps.app.goo.gl/3EaGSxd84aqXi8tv6</string>
+    <string name="ioi">Unit T2–3A-3 &amp; Unit T2-3A-3A Level 3A, IOI City Tower Two, Lbh IRC, Ioi Resort, 62502 Putrajaya, Selangor</string>
+    <string name="ioiPub">(none)</string>
+    <string name="ioiCaps">The multi award-winning IOI City Mall, located within IOI Resort City, is the largest mall in Southern Klang Valley. It is easily accessible via major highways and public transport.</string>
+    <string name="ioiStore">BELLE, UNIQLO, Playboy, G200, H&amp;M, Dragon Silver, PANDORA, Lovisa, Tomei, HABIB, Dyson, Adidas, Bonia, Drum, Giordano, Hackett London</string>
+    <string name="ioiBut">https://www.ioimp.com.my/home/</string>
+    <string name="ioiLink">https://maps.app.goo.gl/8mK3WE2DM2RJLfMW6</string>
+    <string name="ou">1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor</string>
+    <string name="ouPub">MRT Kajang Line: Bandar Utama station\nLRT Shah Alam Line: Bandar Utama station</string>
+    <string name="ouCaps">1 Utama, proudly ranked amongst the world’s largest malls with over 750 stores to shop-eat-play!</string>
+    <string name="ouStore">Nike, PUMA, Lacoste, Levi\'s, Skechers, Vincci, Pedro, Tomei, Machines, HP Concept Store, Bega, Calvin Klein, F.O.S</string>
+    <string name="ouBut">https://www.1utama.com.my/</string>
+    <string name="ouLink">https://maps.app.goo.gl/LZJgxPP61P7htkQQ7</string>
+    <string name="bts">1, Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</string>
+    <string name="btsPub">Monorail Line: Imbi station</string>
+    <string name="btsCaps">Home to over 1,000 retail shops ranging from fashions, F&amp;B, entertainments, beauty, tech, knick-knacks and many more. Find your favourite store.</string>
+    <string name="btsStore">Jovian, A&amp;A, 5R Eco, Just in, Wah Chan, Far East, NSK Grocer, Sushi King, LOL, Panda Eyes, Berjaya Times Square Theme Park</string>
+    <string name="btsBut">https://berjayatimessquarekl.com/</string>
+    <string name="btsLink">https://maps.app.goo.gl/NnyqKzbyaXpwW9dE7</string>
+    <string name="sunway">3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor</string>
+    <string name="sunwayPub">BRT Sunway Line: Sunway Lagoon station</string>
+    <string name="sunwayCaps">Sunway Pyramid is your Unique Lifestyle Adventure Shopping Mall with more than 1000 retailers waiting for you to shop, eat, relax and enjoy right here.</string>
+    <string name="sunwayStore">H&amp;M, Zara, Uniqlo, Mango, Miu Miu, Sephora, L\'Occitane, MAC, Bobbi Brown, The Body Shop, Samsung, Senheng, Muji</string>
+    <string name="sunwayBut">https://www.sunwaypyramid.com/</string>
+    <string name="sunwayLink">https://maps.app.goo.gl/mWe6aHsUzgKUP4C46</string>
+    <string name="starhill">181, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</string>
+    <string name="starhillPub">MRT Kajang Line: Bukit Bintang station\nMonorail Line: Bukit Bintang station</string>
+    <string name="starhillCaps">A new visionary monument of modern luxury in Kuala Lumpur offering the best of experiential retail in an intimate boutique environment that exudes elegance and sophistication.</string>
+    <string name="starhillStore">Apollo, Rolex, Okaju, Louis Vuitton, Jogoya, GIBSON, Davidoff, Bedat &amp; Co, Balmain, Trove, Audemars Piguet, The Alchemy</string>
+    <string name="starhillBut">https://thestarhill.com.my/</string>
+    <string name="starhillLink">https://maps.app.goo.gl/JVahd6czBZqAqWFV9</string>
+    <string name="gardens">Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</string>
+    <string name="gardensPub">LRT Kelana Jaya Line: Abdullah Hukum station\nKTM Port Klang Line: Abdullah Hukum station\nKTM Seremban Line: MidValley station</string>
+    <string name="gardensCaps">Located at the heart of Mid Valley City is The Gardens Mall; a premium 6-level shopping haven for more than 200 outlets where top fashion brands such as Louis Vuitton, Hermès, Cartier, Tiffany &amp; Co., and Burberry reside.</string>
+    <string name="gardensBut">https://www.thegardensmall.com.my/</string>
+    <string name="gardensLink">https://maps.app.goo.gl/t2K6QmRAdnifqm6z9</string>
+    <string name="gardensStore">DKNY, Coach, Celine, Burberry, BOSS, Balenciaga, ALDO, Furla, GUESS, Hermes, Herschel, Kate Spade, Longchamp</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
